@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /politica-de-privacidade
+Sitemap: https://barra-nobre-estudio.vercel.app/sitemap.xml
